@@ -14,7 +14,7 @@
 
 ## 🐍 **Super Animated Python Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshith-venkatesh/harshith-venkatesh/master/python-snake.gif" width="500px">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="500px">
 </p>
 
 ---
