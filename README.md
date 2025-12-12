@@ -14,7 +14,7 @@
 
 ## 🐍 **Super Animated Python Snake**
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="500px">
+  <img src="https://media.giphy.com/media/1kT8IkjYxP0Nq/giphy.gif" width="450px">
 </p>
 
 ---
