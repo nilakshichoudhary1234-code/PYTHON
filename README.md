@@ -12,13 +12,8 @@
 
 ---
 
-## 🐍 **Super Animated Python Snake**
-<p align="center">
-  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="200px">
-</p>
+ 
 
-
----
 
 ## ⚡ **Animated Python Logo**
 <p align="center">
